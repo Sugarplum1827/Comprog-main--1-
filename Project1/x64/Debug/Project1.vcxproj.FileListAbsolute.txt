@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Project1\Project1\x64\Debug\Project1.Search_Patient.resources
+C:\Users\Administrator\source\repos\Project1\Project1\x64\Debug\Project1.All_Patient.resources
+C:\Users\Administrator\source\repos\Project1\Project1\x64\Debug\Project1.Patient_Information.resources
+C:\Users\Administrator\source\repos\Project1\Project1\x64\Debug\Project1.Signupform.resources
